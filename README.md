@@ -1,4 +1,4 @@
-# Data_Visualization_Poster_Project
+# Data Visualization Poster Project
 R codes for a poster project from Information Visualization Course
 
 # About this poster project 
